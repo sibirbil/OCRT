@@ -1,4 +1,4 @@
-# Output-Constrained Decision Trees (OCDT)
+# Output-Constrained Regression Trees (OCRT)
 
 __Hüseyin Tunç, Doğanay Özese, Ş .İlker Birbil, Donato Maragno, Marco Caserta, Mustafa Baydoğan__
 
